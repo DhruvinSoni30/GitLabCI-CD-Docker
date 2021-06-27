@@ -14,3 +14,6 @@ Learn more about GitLab CI/CD by visiting below page.
 
 https://docs.gitlab.com/ee/ci/README.html
 
+In this tutorial you can learn how to push a docker image to GitLab Registry. 
+
+**Dockerfile** contains the code for build the image & **.gitlab-ci.yml** file contains the code for building & pushing the image to GitLab Registry.
